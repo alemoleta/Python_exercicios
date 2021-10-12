@@ -1,3 +1,4 @@
+# fonte: Curso Python Essencials (PE1) da Cisco em https://www.netacad.com/portal/learning
 # A program that reads a sequence of numbers
 # and counts how many numbers are even and how many are odd.
 # The program terminates when zero is entered.

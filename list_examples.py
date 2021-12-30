@@ -9,3 +9,6 @@ print("New list content:", numbers)  # Printing current list content.
 
 print("\nList length:", len(numbers))  # Printing the list's length.
 
+del numbers[1]  # Removing the second element from the list.
+print("New list's length:", len(numbers))  # Printing new list length.
+print("\nNew list content:", numbers)  # Printing current list content.

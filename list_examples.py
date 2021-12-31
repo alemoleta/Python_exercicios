@@ -12,3 +12,7 @@ print("\nList length:", len(numbers))  # Printing the list's length.
 del numbers[1]  # Removing the second element from the list.
 print("New list's length:", len(numbers))  # Printing new list length.
 print("\nNew list content:", numbers)  # Printing current list content.
+
+numbers = [111, 7, 2, 1]
+print(numbers[-1]) #negative indexes
+print(numbers[-2])
